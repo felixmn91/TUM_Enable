@@ -11,6 +11,8 @@ import android.widget.TextView;
 
 public class LaunchTerminal extends AppCompatActivity {
 
+    // test comment
+
     private TextView mVersionTextView;
     private static final String SELECTED_VERSION = "com.example.android.selected_version";
     private String mSelectedVersion;
